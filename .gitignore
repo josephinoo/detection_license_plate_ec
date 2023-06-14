@@ -1,0 +1,3 @@
+./venv
+ultralytics.egg-info
+*.pyc 
